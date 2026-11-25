@@ -223,3 +223,5 @@ __marimo__/
 *.csv
 *.png
 *.jpg
+*.DS_Store
+hw2/EMNIST_data/**
